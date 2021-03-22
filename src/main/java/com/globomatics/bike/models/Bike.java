@@ -25,6 +25,8 @@ public class Bike {
         this.contact = contact;
     }
 
+    public Bike() {}
+
     public String getName() {
         return name;
     }
